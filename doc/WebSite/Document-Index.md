@@ -42,7 +42,7 @@ Application Layer
 -   [Authorization](Authorization.md)
 -   [Feature Management](Feature-Management.md)
 -   [Audit Logging](Audit-Logging.md)
--   [Entity History <label class="label label-success">New</label>](Entity-History.md)
+-   [Entity History](Entity-History.md)
 
 Distributed Service Layer
 
@@ -62,11 +62,12 @@ ASP.NET MVC
 ASP.NET Core
 
 -   [ASP.NET Core Integration](AspNet-Core.md)
--   [ASP.NET Core OData Integration  <label class="label label-success">New</label>](OData-AspNetCore-Integration.md)
+-   [ASP.NET Core OData Integration](OData-AspNetCore-Integration.md)
 
 
 -   [Localization](Localization.md)
 -   [Navigation](Navigation.md)
+-   [Alerts](UI-Alerts.md)
 -   [Embedded Resources](Embedded-Resource-Files.md)
 -   [Javascript API](/Pages/Documents/Javascript-API)
 -   [CSRF/XSRF Protection](XSRF-CSRF-Protection.md)
@@ -81,7 +82,7 @@ Real Time Services
 
 -   [Notification System](Notification-System.md)
 -   [SignalR Integration](SignalR-Integration.md)
--   [SignalR ASP.NET Core Integration <label class="label label-success">New</label>](SignalR-AspNetCore-Integration.md)
+-   [SignalR ASP.NET Core Integration](SignalR-AspNetCore-Integration.md)
 
 Object-Relational Mapping
 
@@ -93,6 +94,7 @@ Object-Relational Mapping
 Releases
 
 - [Nuget Packages](Nuget-Packages.md)
+- [Nightly Builds](Nightly-Builds.md)
 - [Change Logs & Releases](https://github.com/aspnetboilerplate/aspnetboilerplate/releases)
 
 ### Module Zero
@@ -114,7 +116,7 @@ Features
   -   [Organization Unit Management](/Pages/Documents/Zero/Organization-Units)
   -   [Permission Management](/Pages/Documents/Zero/Permission-Management)
   -   [Language Management](/Pages/Documents/Zero/Language-Management)
-  -   [Identity Server Integration <label class="label label-success">New</label>](Zero/Identity-Server.md)
+  -   [Identity Server Integration](Zero/Identity-Server.md)
 
 Releases
 
